@@ -25,7 +25,7 @@
 // }
 // soal
 
-// let umur = 18;
+// let umur = 18
 
 // if (umur >= 18) {
 //   console.log("kamu sudah dewasa");
